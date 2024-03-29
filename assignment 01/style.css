@@ -1,0 +1,115 @@
+:root {
+  --color-bg: #EFE2CD;
+  --color-text-main: #000000;
+  --color-primary: #FFFF00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: "HK Grotesk";
+  --font-family-header: "HK Grotesk";
+}
+
+/* Basic page style resets */
+* {
+  box-sizing: border-box;
+}
+[hidden] {
+  display: none !important;
+}
+
+/* Import fonts */
+@font-face {
+  font-family: HK Grotesk;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+    format("opentype");
+}
+@font-face {
+  font-family: HK Grotesk;
+  font-weight: bold;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+    format("opentype");
+}
+
+.divider {
+  padding: 0 1rem;
+}
+
+/* Style the image container */
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Adjust the space between images as needed */
+  padding-bottom: 24px;
+}
+
+/* Style for the capybara images */
+.capybara {
+  max-width: calc(33.333% - 10px); /* Adjust the width as needed, accounting for the gap */
+  height: auto;
+ 
+}
+
+
+body {
+  font-family: 'HK Grotesk', sans-serif;
+  background-color: var(--color-bg);
+}
+
+/* Page structure */
+.wrapper {
+  min-height: var(--wrapper-height);
+  display: grid;
+  place-items: center;
+  margin: 0 1rem;
+  padding-top:24px;
+  padding-bottom: 24px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Very light scaling for our illustration */
+.title {
+  color: #6B441F;
+  font-family: 'HK Grotesk', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 105%;
+  margin: 0;
+  top: 48px; /* Set the top distance */
+  padding-bottom:24px;
+  
+}
+
+/* Very light scaling for our illustration */
+.illustration {
+  max-width: 100%;
+  max-height: var(--image-max-width);
+  margin-top: var(--image-margin);
+}
+
+
+h1{
+  text-align: center;
+  
+}
+/* Subheading */
+h2 {
+  top: 85%;
+  padding-top:24px;
+  font-size: 24px;
+  color: #6B441F;
+  text-align: center;
+  position: absolute; /* Position it absolutely... */
+  transform: translate(-50%, -50%); /* This will center the h2 */
+}
+
+
+/* Interactive image */
+.illustration:active {
+  transform: translateY(5px);
+}
