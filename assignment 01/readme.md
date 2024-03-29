@@ -13,8 +13,8 @@ Create static website : Capybara Fun Time
 * [ Glitch code ] (https://glitch.com/edit/#!/dw-capybara2)
 
 # HTML page
-* I used Glitch. The <body> contains all the content visible to the user.
-We use <div> elements to define containers for various parts of the layout, such as a wrapper for centering the content and an image-container to hold the capybara images.
+* I used Glitch. The body contains all the content visible to the user.
+I used div elements to define containers for various parts of the layout, such as a wrapper for centering the content and an image-container to hold the capybara images.
 
 
 # Deployment
