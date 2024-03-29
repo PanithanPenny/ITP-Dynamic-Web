@@ -9,7 +9,8 @@ Create static website : Capybara Fun Time
 * [Ref] (https://www.memedroid.com/memes/tag/capybara)
 
 # set up and run your application  
-* [ Glitch ](https://dw-capybara2.glitch.me/)
+* [ Glitch Live site ](https://dw-capybara2.glitch.me/)
+* [ Glitch code ] (https://glitch.com/edit/#!/dw-capybara2)
 
 # HTML page
 * I used Glitch. The <body> contains all the content visible to the user.
