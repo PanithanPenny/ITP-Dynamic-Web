@@ -1,21 +1,25 @@
 # Dynamic-web assignment 01
 # Hello Capybara!
-
+I like the capybaras and their behaviors.
 Create static website : Capybara Fun Time
 * Orange Hat: Meet the capybara who loves oranges! It sits calmly with an orange on its head.
 * Coffee Lover: Here's a capybara with its favorite Starbucks drink, always ready for a coffee break.
 * Sunglasses Capy: And here's the coolest capybara around, wearing sunglasses and soaking up the sun.
-Join the capybaras for a chill and fun day!
+  Join the capybaras for a chill and fun day!
+* [Ref] (https://www.memedroid.com/memes/tag/capybara)
 
 # set up and run your application  
 * [ Glitch ](https://dw-capybara2.glitch.me/)
 
 # Built your HTML page
-* I used Glitch
+* I used Glitch. The <body> contains all the content visible to the user.
+We use <div> elements to define containers for various parts of the layout, such as a wrapper for centering the content and an image-container to hold the capybara images.
 
-# inspiration
+
 # Deployment
-
+1. I used my Glitch account and created new project. 
+2. Clicked share to Live site
+   
 ## What's in this project?
 
 ← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
