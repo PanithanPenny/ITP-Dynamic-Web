@@ -8,7 +8,7 @@ Create static website : Capybara Fun Time
   Join the capybaras for a chill and fun day!
 * [Ref] (https://www.memedroid.com/memes/tag/capybara)
 
-# set up and run your application  
+# Set up and run your application  
 * [ Glitch Live site ](https://dw-capybara2.glitch.me/)
 * [ Glitch code ] (https://glitch.com/edit/#!/dw-capybara2)
 
