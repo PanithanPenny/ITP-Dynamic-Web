@@ -7,6 +7,15 @@ Create static website : Capybara Fun Time
 * Sunglasses Capy: And here's the coolest capybara around, wearing sunglasses and soaking up the sun.
 Join the capybaras for a chill and fun day!
 
+# set up and run your application  
+* [ Glitch ](https://dw-capybara2.glitch.me/)
+
+# Built your HTML page
+* I used Glitch
+
+# inspiration
+# Deployment
+
 ## What's in this project?
 
 ← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
