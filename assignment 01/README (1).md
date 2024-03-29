@@ -11,7 +11,7 @@ Create static website : Capybara Fun Time
 # set up and run your application  
 * [ Glitch ](https://dw-capybara2.glitch.me/)
 
-# Built your HTML page
+# HTML page
 * I used Glitch. The <body> contains all the content visible to the user.
 We use <div> elements to define containers for various parts of the layout, such as a wrapper for centering the content and an image-container to hold the capybara images.
 
