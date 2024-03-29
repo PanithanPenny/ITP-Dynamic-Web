@@ -9,6 +9,11 @@
   --font-family-header: "HK Grotesk";
 }
 
+/*ssh-keygen -t ed25519 -C "pk2785@nyu.edu"
+# start the ssh-agent in the background
+Get-Service -Name ssh-agent | Set-Service -StartupType Manual
+Start-Service ssh-agent
+ssh-keygen -t ed25519-sk -C "your_email@example.com"
 /* Basic page style resets */
 * {
   box-sizing: border-box;
@@ -113,3 +118,4 @@ h2 {
 .illustration:active {
   transform: translateY(5px);
 }
+
