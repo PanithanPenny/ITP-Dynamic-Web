@@ -7,7 +7,7 @@ Create static website
 * Show the architectural showcase
 * [Figma](https://www.figma.com/file/njClMNPUWTN5foeX4wHwXO/DW--web-2?type=design&node-id=0%3A1&mode=design&t=qVS64I9xF7mbP2tZ-1)
 
-# Set up and run your application  
+# Set up and run application  
 * [ Glitch Live site ](https://dynamic-web-2-penny.glitch.me)
 
 
