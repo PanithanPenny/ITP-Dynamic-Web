@@ -20,6 +20,5 @@ I used div elements to define containers for various parts of the layout, such a
 1. I used my Glitch account and created new project. 
 2. Clicked share to Live site
    
-## Blog
-![alt text](http://url/to/img.png)
+
 
