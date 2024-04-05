@@ -1,7 +1,7 @@
 
 # Dynamic-web assignment 02
 # Architecture design showcase
-I like the capybaras and their behaviors.
+
 
 Create static website
 * Show the arrchitectural showcase
