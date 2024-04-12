@@ -3,6 +3,7 @@
 * [Glitch](https://dynamic-web---api---penny.glitch.me/)
 * [API reference](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file)
 * [Figma](https://www.figma.com/file/njClMNPUWTN5foeX4wHwXO/DW--web-2?type=design&node-id=0%3A1&mode=design&t=YNGtDJpG6Ye95Of4-1)
+* Click "Fetch Rate" to see the currency exchange rates
 
 
 #### Free Currency Exchange Rates API
