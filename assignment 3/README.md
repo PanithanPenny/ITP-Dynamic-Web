@@ -1,6 +1,6 @@
 
 #### Currency Exchange Rates
-* [Glitch] (https://dynamic-web---api---penny.glitch.me/)
+* [Glitch](https://dynamic-web---api---penny.glitch.me/)
 * [API reference](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file)
 
 
