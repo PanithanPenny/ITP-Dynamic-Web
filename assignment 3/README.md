@@ -3,6 +3,9 @@
 * [Glitch] (https://dynamic-web---api---penny.glitch.me/)
 * [API reference](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file)
 
+
+
+![Alt text](image link)
 #### Free Currency Exchange Rates API
 [![Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
 
