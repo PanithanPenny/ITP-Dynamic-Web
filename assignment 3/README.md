@@ -5,7 +5,7 @@
 
 
 
-![Alt text](image link)
+![Alt text]([image link](https://github.com/PanithanPenny/ITP-Dynamic-Web/blob/cd484f5fed3c536d7acaaf22d25a930fff3e834e/assignment%203/images/currency%20exchange%20rate%20desktop.png))
 #### Free Currency Exchange Rates API
 [![Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
 
