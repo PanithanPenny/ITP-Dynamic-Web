@@ -6,7 +6,7 @@
 * Click "Fetch Rate" to see the currency exchange rates
 
 
-#### Free Currency Exchange Rates API
+#### Used this Free Currency Exchange Rates API
 [![Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
 
 #### URL Structure:
