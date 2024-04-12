@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency API Example</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Currency Exchange Rates</h1>
+    <select id="currencySelector">
+        <option value="eur">EUR</option>
+        <option value="btc">BTC</option>
+        <option value="usd">USD</option>
+    </select>
+    <button onclick="fetchCurrencyData()">Fetch Rates</button>
+    <div id="ratesDisplay"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
