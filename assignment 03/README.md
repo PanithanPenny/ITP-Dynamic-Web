@@ -1,15 +1,17 @@
+## Currency Exchange Rates
 
-#### Currency Exchange Rates
-* [Glitch](https://dynamic-web---api---penny.glitch.me/)
-* [API reference](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file)
-* [Figma](https://www.figma.com/file/njClMNPUWTN5foeX4wHwXO/DW--web-2?type=design&node-id=0%3A1&mode=design&t=YNGtDJpG6Ye95Of4-1)
-* Click "Fetch Rate" to see the currency exchange rates
+This week, I've been using a free currency exchange rates API, and here's a brief overview:
+
+* Glitch: Check out the currency exchange rates through a dynamic web interface by visiting this [Glitch](https://dynamic-web---api---penny.glitch.me/)
+* API Documentation: For more details on how to use the API, you can visit the GitHub page [API reference](https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file)
+* Figma Design: To see the design of the web interface, click on this [Figma](https://www.figma.com/file/njClMNPUWTN5foeX4wHwXO/DW--web-2?type=design&node-id=0%3A1&mode=design&t=YNGtDJpG6Ye95Of4-1)
+*Fetch Rate: Simply click "Fetch Rate" on the Glitch project to see the current exchange rates.
 
 
-#### Used this Free Currency Exchange Rates API
+## Used this Free Currency Exchange Rates API
 [![Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
 
-#### URL Structure:
+## URL Structure:
 `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@{date}/{apiVersion}/{endpoint}`
 
 
