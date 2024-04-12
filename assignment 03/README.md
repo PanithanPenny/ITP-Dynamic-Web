@@ -8,9 +8,6 @@ This week, I've been using a free currency exchange rates API, and here's a brie
 * Fetch Rate: Simply click "Fetch Rate" on the Glitch project to see the current exchange rates.
 
 
-## Used this Free Currency Exchange Rates API
-[![Publish-Currencies](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml/badge.svg)](https://github.com/fawazahmed0/exchange-api/actions/workflows/run.yml)
-
 ## URL Structure:
 `https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@{date}/{apiVersion}/{endpoint}`
 
