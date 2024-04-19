@@ -1,9 +1,9 @@
 ## Sign up for our newsletter
-This week,I want to create a newsletter subscription feature for architecture and landscape design articles and services.
+This week, I want to create a newsletter subscription feature for architecture and landscape design articles and services.
 The admin.hbs file serves as the HTML page for managing subscriptions, where the form tags are used for submitting, deleting, and editing email addresses.
 
 * [Glitch](https://dynamic-web-sign-up-email.glitch.me/)
-* SQLite reference[Glitch template](https://glitch.com/edit/#!/hammerhead-rich-danthus))
+* SQLite reference [Glitch template](https://glitch.com/edit/#!/hammerhead-rich-danthus)
 
 ## Setting Up and Running the Application
 Local Setup:
