@@ -20,26 +20,14 @@ The SQLite database is in memory, so it will be fresh each time you start the ap
 Your server.js file contains code to create an Emails table, which will store the email addresses submitted.
 
 #### Endpoints:
-GET /: Retrieves and displays the admin page with the list of emails.
-POST /submit-email: Accepts an email address from the form and inserts it into the database.
-POST /delete-email: Deletes an email from the database.
-POST /edit-email: Updates an existing email in the database.
-Handlebars (hbs):
+* GET /: Retrieves and displays the admin page with the list of emails.
+* POST /submit-email: Accepts an email address from the form and inserts it into the database.
+* POST /delete-email: Deletes an email from the database.
+* POST /edit-email: Updates an existing email in the database.
+* Handlebars (hbs):
 
 I'm using Handlebars as my template engine.
 Handlebars files have the extension .hbs and are located in the views directory.
 My admin.hbs file is the template for the admin page, allowing for dynamic content insertion with {{placeholders}}.
 
-#### API Reference:
-My application provides a basic RESTful API:
-* GET /: Displays the main page with a form for subscribing to the newsletter.
-* POST /submit-email: Endpoint to submit a new email to the newsletter list.
-** Input: email (form-data)
-** Action: Inserts a new email into the database.
-* POST /delete-email: Endpoint to delete an email from the newsletter list.
-** Input: id (form-data)
-** Action: Removes an email from the database by ID.
-* POST /edit-email: Endpoint to update an existing email in the newsletter list.
-** Input: id, email (form-data)
-** Action: Updates an existing email in the database by ID.
 
