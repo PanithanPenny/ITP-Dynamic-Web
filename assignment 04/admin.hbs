@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stay updated!</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="wrapper">
+    <div class="content">
+      <h1>Sign up for our newsletter</h1>
+      <h3>Don’t wanna miss our best architecture design articles? Just tell us your email address</h3>
+      {{#if error}}
+        <p class="error">{{error}}</p>
+      {{/if}}
+      <form id="emailForm" action="/submit-email" method="post">
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <button type="submit">Submit</button>
+      </form>
+
+      <br>
+      <br>
+      <h2>Email List</h2>
+      {{#if emails}}
+        <ul>
+          {{#each emails}}
+            <br>
+              {{this.email}}
+              <!-- Delete button -->
+              <form action="/delete-email" method="post" style="display: inline;">
+                <input type="hidden" name="id" value="{{this.id}}">
+                <button type="submit">Delete</button>
+              </form>
+              <!-- Edit button -->
+              <button onclick="document.getElementById('editEmail{{this.id}}').style.display = 'block';">Edit</button>
+              
+              <!-- Edit email form, initially hidden -->
+              <div id="editEmail{{this.id}}" style="display: none;">
+                <form action="/edit-email" method="post">
+                  <input type="hidden" name="id" value="{{this.id}}">
+                  <input type="email" name="email" value="{{this.email}}">
+                  <button type="submit">Update</button>
+                </form>
+              </div>
+            <br>
+      
+          {{/each}}
+        </ul>
+      {{else}}
+        <p>No emails collected yet.</p>
+      {{/if}}
+    </div>
+  </div>
+
+  <footer class="footer">
+
+  </footer>
+</body>
+</html>
