@@ -30,4 +30,7 @@ I'm using Handlebars as my template engine.
 Handlebars files have the extension .hbs and are located in the views directory.
 My admin.hbs file is the template for the admin page, allowing for dynamic content insertion with {{placeholders}}.
 
+![image 99](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/e0776448-06c9-44e6-a5b4-1aca223b1b1c)
+![image 100](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/2b8a1bbf-56b2-4fdb-8e8c-8de1ee714e43)
+![image 101](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/1c60a25f-27c6-4c06-8cf2-73f0425f9700)
 
