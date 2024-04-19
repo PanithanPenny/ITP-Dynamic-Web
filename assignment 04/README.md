@@ -2,8 +2,8 @@
 This week,I want to create a newsletter subscription feature for architecture and landscape design articles and services.
 The admin.hbs file serves as the HTML page for managing subscriptions, where the form tags are used for submitting, deleting, and editing email addresses.
 
-* Glitch: Check out the currency exchange rates through a dynamic web interface by visiting this [Glitch]([https://dynamic-web---api---penny.glitch.me/](https://dynamic-web-sign-up-email.glitch.me/))
-* SQLite reference(Glitch template)[https://github.com/fawazahmed0/exchange-api?tab=readme-ov-file](https://glitch.com/edit/#!/hammerhead-rich-danthus))
+* [Glitch](https://dynamic-web-sign-up-email.glitch.me/)
+* SQLite reference[Glitch template](https://glitch.com/edit/#!/hammerhead-rich-danthus))
 
 ## Setting Up and Running the Application
 Local Setup:
