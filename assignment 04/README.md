@@ -17,7 +17,7 @@ Local Setup:
 
 ## Database:
 The SQLite database is in memory, so it will be fresh each time you start the application.
-Your server.js file contains code to create an Emails table, which will store the email addresses submitted.
+server.js file contains code to create an Emails table, which will store the email addresses submitted.
 
 #### Endpoints:
 * GET /: Retrieves and displays the admin page with the list of emails.
