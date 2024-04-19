@@ -3,7 +3,7 @@
 This week, I want to create a newsletter subscription feature for architecture and landscape design articles and services.
 The admin.hbs file serves as the HTML page for managing subscriptions, where the form tags are used for submitting, deleting, and editing email addresses.
 
-* [Glitch](https://dynamic-web-sign-up-email.glitch.me/) , if it's not working please see the images below
+* [Glitch Live Web](https://dynamicwebsignupemail.glitch.me/) , if it's not working please see the images below
 * [SQLite reference from Glitch](https://glitch.com/edit/#!/hammerhead-rich-danthus)
 
 ## Setting Up and Running the Application
