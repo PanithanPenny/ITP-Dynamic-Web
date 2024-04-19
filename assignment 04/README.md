@@ -1,3 +1,4 @@
+# Dynamic-web assignment 04
 ## Sign up for our newsletter
 This week, I want to create a newsletter subscription feature for architecture and landscape design articles and services.
 The admin.hbs file serves as the HTML page for managing subscriptions, where the form tags are used for submitting, deleting, and editing email addresses.
