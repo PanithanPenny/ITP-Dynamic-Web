@@ -6,7 +6,7 @@ Panithan (Penny)
  [Figma](https://www.figma.com/file/njClMNPUWTN5foeX4wHwXO/DW--web-2?type=design&node-id=0%3A1&mode=design&t=qVS64I9xF7mbP2tZ-1) ,
  [ Live site ](https://dynamic-web-2-penny.glitch.me)
 * [assignment 03](https://github.com/PanithanPenny/ITP-Dynamic-Web/tree/860adccd27ac587e632b7e1178f67c20a5b9fae8/assignment%2003) , [Live site](https://dynamic-web---api---penny.glitch.me/)
-* assignment 04
+* [assignment 04](https://github.com/PanithanPenny/ITP-Dynamic-Web/tree/6fa19dade7b804d06a3128bb9eb4d33ea1702410/assignment%2004) , [ Live site ](https://dynamic-web-sign-up-email.glitch.me/)
 * assignment 05
 * assignment 06
 * Final 
