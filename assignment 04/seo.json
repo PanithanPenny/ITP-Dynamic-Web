@@ -1,0 +1,8 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Sign up for our newsletter",
+  "description": "Don’t wanna miss our best architecture design articles? Just tell us your email address",
+  "url": "glitch-default",
+  "image": "https://cdn.glitch.global/41665bc8-0100-4d5e-b4ed-bc304b518051/image%2038.png?v=1713504035181",
+  "db": "SQLite"
+}
