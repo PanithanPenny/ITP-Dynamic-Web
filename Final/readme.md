@@ -31,9 +31,9 @@ Multer: This is a middleware for handling multipart/form-data, which is primaril
 Google Cloud Storage: The application uses Google Cloud Storage for storing uploaded images, facilitated by the @google-cloud/storage package. This choice is appropriate for scalable, durable, and highly available storage for your user-generated content.
 
 ## API Endpoints:
-GET /api/listPosts: Fetches a list of image URLs from the database to display previously uploaded images.
-POST /api/uploadImage: Handles the uploading of new images to Google Cloud Storage and stores the URLs in the database.
-DELETE /api/deletePost/:index: Removes an image URL from the database based on the specified index. Does not delete the image from Google Cloud Storage.
+* GET /api/listPosts: Fetches a list of image URLs from the database to display previously uploaded images.
+* POST /api/uploadImage: Handles the uploading of new images to Google Cloud Storage and stores the URLs in the database.
+* DELETE /api/deletePost/:index: Removes an image URL from the database based on the specified index. Does not delete the image from Google Cloud Storage.
 
 
 ![p6](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/177d373a-7930-4a5f-8bda-857a6fe5fe5c)
