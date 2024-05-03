@@ -1,5 +1,5 @@
 ## Assignment 05
-Architecturw company website
+Architecture website
 
 ![image 71](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/a591a9e3-8fda-4243-88bb-6a0d253d0b8a)
 
