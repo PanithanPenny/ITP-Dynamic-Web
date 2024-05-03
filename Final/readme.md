@@ -21,14 +21,12 @@ Local Setup:
 * Run the application using npm start or node server.js.
 
 ## Server and Database:
-This project is built on Node.js and Express.js, with Replit used for development and deployment. I utilizes Multer for file handling, the @replit/database for simple data storage, and Google Cloud Storage for image hosting.
-
-Node.js and Express.js: Your server is powered by Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js provides a robust suite of features for web and network applications, while Express.js is a web application framework for Node.js, designed for building web applications and APIs. It's fast, unopinionated, and minimalist.
+Node.js and Express.js
 
 Middleware and Libraries:
-Multer: This is a middleware for handling multipart/form-data, which is primarily used for uploading files. In my project, it handles image uploads.
-@replit/database: This is used to interact with Replit's built-in database feature, providing a simple key-value store to manage data such as image URLs.
-Google Cloud Storage: The application uses Google Cloud Storage for storing uploaded images, facilitated by the @google-cloud/storage package. This choice is appropriate for scalable, durable, and highly available storage for your user-generated content.
+* Multer: This is a middleware for handling multipart/form-data, which is primarily used for uploading files. In my project, it handles image uploads.
+* @replit/database: This is used to interact with Replit's built-in database feature, providing a simple key-value store to manage data such as image URLs.
+* Google Cloud Storage: The application uses Google Cloud Storage for storing uploaded images, facilitated by the @google-cloud/storage package. This choice is appropriate for scalable, durable, and highly available storage for your user-generated content.
 
 ## API Endpoints:
 * GET /api/listPosts: Fetches a list of image URLs from the database to display previously uploaded images.
