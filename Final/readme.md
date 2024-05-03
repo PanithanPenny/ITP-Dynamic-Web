@@ -1,9 +1,12 @@
-# Final Dynamic-web 
+# Final Dynamic Web 
 ## Design your space
-This final project I combined with my other class, HandHeld Creative Tool. I used Replit as a dev environment and deployment.
+This project is built on Node.js and Express.js, with Replit used for development and deployment. I utilizes Multer for file handling, the @replit/database for simple data storage, and Google Cloud Storage for image hosting."
 
 * [Live Web](https://hh-final-design-your-space-2-panitankasin.replit.app/)
 
+  
+![p1](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/29d2f558-23d6-4570-931d-8f98c1f82a41)
+![p3](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/b4894b6f-3f5a-4f37-bd37-39e30665e759)
 
 ## Setting Up and Running the Application
 Local Setup:
@@ -30,8 +33,6 @@ POST /api/uploadImage: Handles the uploading of new images to Google Cloud Stora
 DELETE /api/deletePost/:index: Removes an image URL from the database based on the specified index. Does not delete the image from Google Cloud Storage.
 
 
-![p1](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/29d2f558-23d6-4570-931d-8f98c1f82a41)
-![p3](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/b4894b6f-3f5a-4f37-bd37-39e30665e759)
 ![p6](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/177d373a-7930-4a5f-8bda-857a6fe5fe5c)
 ![p7](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/8fda8678-ae4e-4dbf-a466-620c78f3ace5)
 
