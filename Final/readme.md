@@ -2,7 +2,7 @@
 ## Design your space
 This project is built on Node.js and Express.js, with Replit used for development and deployment. I utilizes Multer for file handling, the @replit/database for simple data storage, and Google Cloud Storage for image hosting."
 
-* [Live Web](https://hh-final-design-your-space-2-panitankasin.replit.app/)
+[https://hh-final-design-your-space-2-panitankasin.replit.app/](https://hh-final-design-your-space-2-panitankasin.replit.app/) Replit link
 
   
 ![p1](https://github.com/PanithanPenny/ITP-Dynamic-Web/assets/143921260/29d2f558-23d6-4570-931d-8f98c1f82a41)
