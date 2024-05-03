@@ -2,7 +2,7 @@
 ## Design your space
 This final project I combined with my other class, HandHeld Creative Tool. I used Replit as a dev environment and deployment.
 
-* [Live Web][https://dynamicwebsignupemail.glitch.me/](https://hh-final-design-your-space-2-panitankasin.replit.app/) 
+* [Live Web](https://hh-final-design-your-space-2-panitankasin.replit.app/)
 
 
 ## Setting Up and Running the Application
